@@ -27,7 +27,7 @@ export function BurnSchedule() {
             <Flame className="h-8 w-8 text-primary" />
           </div>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            50% of SODM tokens (250,000,000 SODM) will be burned over 10 cycles,
+            25% of SODM tokens (250,000,000 SODM) will be burned over 10 cycles,
             every 15 days for 5 months
           </p>
         </div>
