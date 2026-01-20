@@ -100,7 +100,7 @@ export function BurnCountdown() {
     <div className="w-full">
       <div className="flex items-center justify-center gap-2 mb-6">
         <Flame className="h-6 w-6 text-primary" />
-        <h3 className="text-xl font-semibold text-foreground">End of Presale</h3>
+        <h3 className="text-xl font-semibold text-foreground">Burns Begin After Presale Ends</h3>
         <Flame className="h-6 w-6 text-primary" />
       </div>
 
