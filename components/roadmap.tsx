@@ -32,7 +32,7 @@ const phases = [
       "Complete LP burn program",
       "Apply for ecosystem listings",
       "Staking and utility integration",
-      "Partnerships and collaborations",
+      "Listings on major exchanges",
     ],
   },
   {
