@@ -18,7 +18,7 @@ const allocations = [
     name: "LP Tokens LOCKED",
     percentage: 25,
     tokens: "250,000,000",
-    icon: Lock,
+    icon: Droplets,
     color: "bg-accent",
     wallet: "FqNj9NhbA6LAcYhrSeaY5HeNsBtUKM9u6pi51qHZ9c1g",
   },
