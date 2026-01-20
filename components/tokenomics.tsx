@@ -15,7 +15,7 @@ const allocations = [
     wallet: "8e4GdTky86JdLpTUfCjWXcZqv7GuXkMDSkFMUGnNfsL3",
   },
   {
-    name: "LP for Burn",
+    name: "LP Tokens LOCKED",
     percentage: 50,
     tokens: "500,000,000",
     icon: Droplets,
