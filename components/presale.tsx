@@ -82,7 +82,7 @@ export function Presale() {
               <div className="space-y-4">
                 <div className="flex justify-between items-center py-2 border-b border-border">
                   <span className="text-muted-foreground">Price</span>
-                  <span className="text-foreground font-semibold">$0.00005</span>
+                  <span className="text-foreground font-semibold">$0.00004</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-border">
                   <span className="text-muted-foreground">Allocation</span>
