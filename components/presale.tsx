@@ -22,7 +22,7 @@ export function Presale() {
             Join the Presale
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Be an early supporter of SOLDIUM. Get SODM tokens at the presale price of $0.00001
+            Be an early supporter of SOLDIUM. Get SODM tokens at the presale price of $0.00005
           </p>
         </div>
 
@@ -82,7 +82,7 @@ export function Presale() {
               <div className="space-y-4">
                 <div className="flex justify-between items-center py-2 border-b border-border">
                   <span className="text-muted-foreground">Price</span>
-                  <span className="text-foreground font-semibold">$0.00001</span>
+                  <span className="text-foreground font-semibold">$0.00005</span>
                 </div>
                 <div className="flex justify-between items-center py-2 border-b border-border">
                   <span className="text-muted-foreground">Allocation</span>
