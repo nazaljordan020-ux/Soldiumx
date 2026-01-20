@@ -36,7 +36,7 @@ export function Hero() {
                 Buy Presale
               </Button>
               <Button size="lg" variant="outline" className="border-primary/50 text-foreground hover:bg-primary/10 bg-transparent">
-                View Whitepaper
+                Tokenomics
               </Button>
             </div>
 

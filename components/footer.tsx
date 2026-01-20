@@ -26,9 +26,9 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://twitter.com/intent/follow?screen_name=SoldiumX"
                 className="p-2 rounded-lg bg-muted hover:bg-primary/20 transition-colors"
-                aria-label="Twitter"
+                aria-label="X"
               >
                 <Twitter className="h-5 w-5 text-foreground" />
               </a>
@@ -49,7 +49,7 @@ export function Footer() {
               <a
                 href="#"
                 className="p-2 rounded-lg bg-muted hover:bg-primary/20 transition-colors"
-                aria-label="Whitepaper"
+                aria-label="Tokenomics"
               >
                 <FileText className="h-5 w-5 text-foreground" />
               </a>

@@ -12,23 +12,23 @@ const allocations = [
     tokens: "400,000,000",
     icon: Coins,
     color: "bg-primary",
-    wallet: "FqNj9NhbA6LAcYhrSeaY5HeNsBtUKM9u6pi51qHZ9c1g",
+    wallet: "8e4GdTky86JdLpTUfCjWXcZqv7GuXkMDSkFMUGnNfsL3",
   },
   {
-    name: "Liquidity Pool",
+    name: "LP for Burn",
     percentage: 50,
     tokens: "500,000,000",
     icon: Droplets,
     color: "bg-accent",
-    wallet: "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+    wallet: "FqNj9NhbA6LAcYhrSeaY5HeNsBtUKM9u6pi51qHZ9c1g",
   },
   {
-    name: "Team",
+    name: "Marketing",
     percentage: 5,
     tokens: "50,000,000",
     icon: Users,
     color: "bg-secondary",
-    wallet: "9WzDXwBbmPEWvLMBGzH8M6UTYvE3rBPK7fGVA9F1Hy2k",
+    wallet: "GsAWKLeuX16Q6FuVn9kCJggbmCCz48EMFGNB2UfhmeAK",
   },
   {
     name: "Airdrop & Rewards",
@@ -36,7 +36,7 @@ const allocations = [
     tokens: "50,000,000",
     icon: Gift,
     color: "bg-muted",
-    wallet: "3Yx6V7hKxPFPwJZMvYR8vU8KL9oQTEm5Hb4D6cN2wS1A",
+    wallet: "AuYeJob9d7LcQNFkta5vtGxXAxcmcNszFM8uJaYUACap",
   },
 ]
 

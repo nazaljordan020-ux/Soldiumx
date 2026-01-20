@@ -8,7 +8,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Coins, Calculator, ArrowRight } from "lucide-react"
 
-const PRESALE_PRICE = 0.00001
+const PRESALE_PRICE = 0.00005
 
 export function Presale() {
   const [amount, setAmount] = useState("")
@@ -63,7 +63,7 @@ export function Presale() {
               </div>
 
               <p className="text-xs text-muted-foreground text-center">
-                Presale Price: $0.00001 per SODM
+                Presale Price: $0.00005 per SODM
               </p>
             </CardContent>
           </Card>
