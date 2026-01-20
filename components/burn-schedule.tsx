@@ -22,12 +22,12 @@ export function BurnSchedule() {
           <div className="inline-flex items-center gap-2 mb-4">
             <Flame className="h-8 w-8 text-primary" />
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-              LP Burn Schedule
+              SODM Burn Schedule
             </h2>
             <Flame className="h-8 w-8 text-primary" />
           </div>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            50% of LP tokens (250,000,000 SODM) will be burned over 10 cycles,
+            50% of SODM tokens (250,000,000 SODM) will be burned over 10 cycles,
             every 15 days for 5 months
           </p>
         </div>

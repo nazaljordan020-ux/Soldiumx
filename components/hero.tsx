@@ -27,7 +27,7 @@ export function Hero() {
             </h1>
             
             <p className="text-lg text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-              SOLDIUM (SODM) is built for trust. Locked liquidity, scheduled LP burns, 
+              SOLDIUM (SODM) is built for trust. Locked liquidity, scheduled SODM burns, 
               and transparent tokenomics ensure a secure and fair ecosystem.
             </p>
 

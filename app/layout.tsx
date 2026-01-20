@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'SOLDIUM (SODM) - Trust-First DeFi Token on Solana',
-  description: 'SOLDIUM is a trust-first DeFi token on Solana with locked liquidity, scheduled LP burns, and transparent tokenomics designed to protect investors.',
+  description: 'SOLDIUM is a trust-first DeFi token on Solana with locked liquidity, scheduled SODM burns, and transparent tokenomics designed to protect investors.',
   generator: 'v0.app',
   icons: {
     icon: [

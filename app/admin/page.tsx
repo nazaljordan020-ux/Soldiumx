@@ -335,7 +335,7 @@ export default function AdminPage() {
                 <div>
                   <CardTitle className="text-white">Countdown Settings</CardTitle>
                   <CardDescription className="text-slate-400">
-                    Edit the LP burn countdown timer displayed on the homepage
+                    Edit the SODM burn countdown timer displayed on the homepage
                   </CardDescription>
                 </div>
               </div>

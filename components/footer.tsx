@@ -21,7 +21,7 @@ export function Footer() {
               <span className="text-2xl font-bold text-foreground">SOLDIUM</span>
             </Link>
             <p className="text-muted-foreground max-w-sm mb-6 leading-relaxed">
-              SOLDIUM (SODM) is built for trust. Locked liquidity, scheduled LP burns, 
+              SOLDIUM (SODM) is built for trust. Locked liquidity, scheduled SODM burns, 
               and transparent tokenomics ensure a secure and fair ecosystem.
             </p>
             <div className="flex gap-4">

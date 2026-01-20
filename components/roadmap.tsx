@@ -15,10 +15,10 @@ const phases = [
   },
   {
     phase: "Phase 2",
-    title: "Scheduled LP Burns",
+    title: "Scheduled SODM Burns",
     icon: Flame,
     items: [
-      "Execute 15-day LP burns",
+      "Execute 15-day SODM burns",
       "Publish transaction hashes",
       "Airdrop campaigns",
       "Community engagement",
@@ -29,7 +29,7 @@ const phases = [
     title: "Growth & Expansion",
     icon: TrendingUp,
     items: [
-      "Complete LP burn program",
+      "Complete SODM burn program",
       "Apply for ecosystem listings",
       "Staking and utility integration",
       "Listings on major exchanges",
