@@ -6,7 +6,7 @@ import { doc, onSnapshot } from "firebase/firestore"
 import { db } from "@/lib/firebase"
 
 // Default fallback date if Firebase is not configured
-const DEFAULT_BURN_DATE = "2026-07-09T00:00:00Z"
+const DEFAULT_BURN_DATE = "2026-03-09T00:00:00Z"
 
 interface TimeLeft {
   days: number
@@ -100,7 +100,7 @@ export function BurnCountdown() {
     <div className="w-full">
       <div className="flex items-center justify-center gap-2 mb-6">
         <Flame className="h-6 w-6 text-primary" />
-        <h3 className="text-xl font-semibold text-foreground">End of Presale</h3>
+        <h3 className="text-xl font-semibold text-foreground">Start of Burning</h3>
         <Flame className="h-6 w-6 text-primary" />
       </div>
 
